@@ -1,1 +1,1 @@
-We create quick registration applications in collaboration with some of the largest companies in the IT field.
+<a href="https://majara.dev/u/zzz"><img src="https://majara.dev/api/majara-dev-card/og?user=zzz&layout=horizontal&theme=dark&accent=purple" width="1000" alt="Ziad Yahya Zakaria's Majara Dev Card"/></a>
